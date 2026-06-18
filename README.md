@@ -4,11 +4,17 @@ C++ Visual Creativity &amp; Optimization Challenge. Open to all skill levels.
 # Pre-Requisites
 * Any C/C++ experience. 
 * A C++17 or better compiler/IDE.
+* GitHub Account.
 
 # Supported Platforms / Software Dependencies
 * Windows/UWP 64bit: None. Vulkan SDK (optional)
 * MacOS ARM/64bit: None. Vulkan SDK (optional)
 * Linux 64bit: X11 or XWayland. Vulkan SDK (optional)
+
+# Getting Started
+* Fork this repo to your own public repo and clone it.
+* The source code should build and run in any modern C++17 capable compiler.
+* An OPTIONAL CMakeLists.txt build file is provided for your conveience.  
 
 # Challenge Goal
 * Expand the provided base code to modify the pixel data on screen to produce visually interesting and asthetically pleasing effects.
