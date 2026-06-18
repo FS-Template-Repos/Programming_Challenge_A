@@ -18,6 +18,7 @@ C++ Visual Creativity &amp; Optimization Challenge. Open to all skill levels.
 * Use raw C++ code to edit the on-screen color array in the most interesting/pleasing ways you can come up with.
 
 # Rules / Restrictions
+* At the start of the challenge, you must create a **public** GitHub fork of **this** repo,
 * You must utilize the two provided base files (main.cpp & Gateware.h) for screen updates.
 * No additional external libraries can be included/used. C++ std:: libraries are ok.
 * No additional Gateware libraries may be used without explicit organizer permissions.
@@ -32,5 +33,11 @@ C++ Visual Creativity &amp; Optimization Challenge. Open to all skill levels.
 * Enabling the optional Vulkan backend (GRasterSurface) for faster updates.
 * Perspective correct 3D rendering with accurate lighting and shading.
 * Small executable size.
+
+# Submission
+* Use OBS to record a video showcasing the windowed application running at the original fixed resolution.
+* Videos should be no less than one minute and no longer than 5 minutes. (narration is recommended)
+* Expect to provide a URL to your public GitHub fork and a YouTube(unlisted is ok) video link.
+* Organizers will provide further instructions towards the end of the challenge.  
 
 # Good Luck!
