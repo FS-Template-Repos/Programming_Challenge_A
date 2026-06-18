@@ -14,6 +14,7 @@ C++ Visual Creativity &amp; Optimization Challenge. Open to all skill levels.
 # Getting Started
 * Fork this repo to your own public repo and clone it.
 * The source code should build and run in any modern C++17 capable compiler.
+* It should be noted that some IDEs like Visual Studio still default to C++14.
 * An OPTIONAL CMakeLists.txt build file is provided for your conveience.  
 
 # Challenge Goal
